@@ -64,7 +64,7 @@ main() {
     check_root
 
     # Parametry kontenera
-    local CONTAINER_ID=100
+    local CONTAINER_ID=107
     local CONTAINER_NAME="alpine-container"
     local CONTAINER_TEMPLATE="local:vztmpl/alpine-3.13-standard_3.13-1_amd64.tar.gz"
 
